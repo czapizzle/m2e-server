@@ -1,0 +1,7 @@
+{
+  "dev": {
+    "driver": "mongodb",
+    "database": "store",
+    "host": "127.0.0.1"
+  }
+}
