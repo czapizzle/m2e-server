@@ -16,9 +16,9 @@ This project uses:
 
 To install this project simply clone or download the repo:
 
-`git clone https://github.com/czapizzle/m2e-server.git <dir name>`
+`git clone https://github.com/czapizzle/m2e-server.git`
 
-`cd <dir name>`
+`cd m2e-server`
 
 `npm install`
 
