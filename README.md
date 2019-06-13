@@ -22,7 +22,7 @@ To install this project simply clone or download the repo:
 
 `npm install`
 
-`cp .env.example .env` then add in your local Mongo URI **Changing variables in the .env will require you to change it in the `src/datasources/db.datasource.json` file.**
+Add in your local Mongo URI **Change variable in the `src/datasources/db.datasource.json` and `database.json` files.**
 
 
 ## Database migration
@@ -30,9 +30,9 @@ To install this project simply clone or download the repo:
 npm run migrate
 ```
 
-## Setup/Development
+## Starting the project
 
-To develop using this project you can run. The server will require you to be running a local instance of [MongoDB](https://www.mongodb.com/).
+The server will require you to be running a local instance of [MongoDB](https://www.mongodb.com/).
 ```
 npm start
 ```
