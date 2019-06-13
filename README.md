@@ -30,8 +30,9 @@ To install this project simply clone or download the repo:
 npm run migrate
 ```
 
-### Setup/Development
+## Setup/Development
 
 To develop using this project you can run. The server will require you to be running a local instance of [MongoDB](https://www.mongodb.com/).
-
-`npm start`
+```
+npm start
+```
