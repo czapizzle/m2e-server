@@ -39,7 +39,7 @@ exports.up = function(db, callback) {
     sku: "111445GB3",
     title: "Leather Jacket",
     slug: "leather-jacket",
-    image: "/images/blue-t-shirt.jpg",
+    image: "https://dummyimage.com/300x400/f2f2f2/c0c2db.jpg",
     category: "coats-and-jackets",
     stock: 6,
     price: 54.99
@@ -47,7 +47,7 @@ exports.up = function(db, callback) {
     sku: "121445GB3",
     title: "Blue Tshirts",
     slug: "blue-tshirts",
-    image: "/images/blue-t-shirt.jpg",
+    image: "https://dummyimage.com/300x400/f2f2f2/c0c2db.jpg",
     category: "t-shirts",
     stock: 11,
     price: 8.00
@@ -55,7 +55,7 @@ exports.up = function(db, callback) {
     sku: "121443GB3",
     title: "Black Jeans",
     slug: "black-jeans",
-    image: "/images/blue-t-shirt.jpg",
+    image: "https://dummyimage.com/300x400/f2f2f2/c0c2db.jpg",
     category: "jeans",
     stock: 8,
     price: 32.99
@@ -63,7 +63,7 @@ exports.up = function(db, callback) {
     sku: "1R1443GB3",
     title: "Brown Shoes",
     slug: "brown-shoes",
-    image: "/images/blue-t-shirt.jpg",
+    image: "https://dummyimage.com/300x400/f2f2f2/c0c2db.jpg",
     category: "shoes",
     stock: 7,
     price: 29.99
@@ -71,7 +71,7 @@ exports.up = function(db, callback) {
     sku: "1R1663GB3",
     title: "Blue Jeans",
     slug: "blue-jeans",
-    image: "/images/blue-t-shirt.jpg",
+    image: "https://dummyimage.com/300x400/f2f2f2/c0c2db.jpg",
     category: "jeans",
     stock: 2,
     price: 32.99
@@ -79,7 +79,7 @@ exports.up = function(db, callback) {
     sku: "8R1663GB3",
     title: "Black Shoes",
     slug: "black-shoes",
-    image: "/images/blue-t-shirt.jpg",
+    image: "https://dummyimage.com/300x400/f2f2f2/c0c2db.jpg",
     category: "shoes",
     stock: 10,
     price: 25.00
@@ -87,7 +87,7 @@ exports.up = function(db, callback) {
     sku: "8R1663G63",
     title: "Trainers",
     slug: "trainers",
-    image: "/images/blue-t-shirt.jpg",
+    image: "https://dummyimage.com/300x400/f2f2f2/c0c2db.jpg",
     category: "shoes",
     stock: 9,
     price: 38.99
@@ -95,7 +95,7 @@ exports.up = function(db, callback) {
     sku: "8R1663G23",
     title: "Parka Jacket",
     slug: "parka-jacket",
-    image: "/images/blue-t-shirt.jpg",
+    image: "https://dummyimage.com/300x400/f2f2f2/c0c2db.jpg",
     category: "coats-and-jackets",
     stock: 8,
     price: 49.99
@@ -103,7 +103,7 @@ exports.up = function(db, callback) {
     sku: "1R1663G23",
     title: "Bed Slippers",
     slug: "bed-slippers",
-    image: "/images/blue-t-shirt.jpg",
+    image: "https://dummyimage.com/300x400/f2f2f2/c0c2db.jpg",
     category: "shoes",
     stock: 20,
     price: 9.99
@@ -111,7 +111,7 @@ exports.up = function(db, callback) {
     sku: "1R1HT3G23",
     title: "Pink Tshirt",
     slug: "pink-tshirt",
-    image: "/images/blue-t-shirt.jpg",
+    image: "https://dummyimage.com/300x400/f2f2f2/c0c2db.jpg",
     category: "t-shirts",
     stock: 5,
     price: 8.00
@@ -119,7 +119,7 @@ exports.up = function(db, callback) {
     sku: "YR1HT3G23",
     title: "Yellow Tshirt",
     slug: "yellow-tshirt",
-    image: "/images/blue-t-shirt.jpg",
+    image: "https://dummyimage.com/300x400/f2f2f2/c0c2db.jpg",
     category: "t-shirts",
     stock: 6,
     price: 8.00
@@ -127,7 +127,7 @@ exports.up = function(db, callback) {
     sku: "RR1HT3G23",
     title: "Red Tshirt",
     slug: "red-tshirt",
-    image: "/images/blue-t-shirt.jpg",
+    image: "https://dummyimage.com/300x400/f2f2f2/c0c2db.jpg",
     category: "t-shirts",
     stock: 6,
     price: 8.00
