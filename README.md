@@ -36,3 +36,13 @@ The server will require you to be running a local instance of [MongoDB](https://
 ```
 npm start
 ```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
